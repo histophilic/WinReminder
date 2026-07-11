@@ -11,5 +11,8 @@ WinReminder, istenilen tarihler için kısa hatırlatıcı notlar tutmayı sağl
 - Halihazırda Release konfigürasyonunda olan projeyi derleyerek kolayca çalıştırabilirsiniz.
 
 **Not:** Yakın zamanda x64 mimarisi için MSI kurulum paketi yayınlamayı planlıyorum.
+## Ekran görüntüsü
+<img width="560" height="438" alt="wr64" src="https://github.com/user-attachments/assets/bbba32ff-dede-4a64-a866-774e66eb2aa6" />
+
 ## Lisans
 Bu proje MIT Lisansı kullanmaktadır.
